@@ -1,8 +1,8 @@
-// const apiUrl = `https://api.github.com`
-// const pinnedRepoApiUrl = `https://gh-pinned-repos.egoist.dev/?username=`;
+const apiUrl = `https://api.github.com`
+const pinnedRepoApiUrl = `https://gh-pinned-repos.egoist.dev/?username=`;
 
-const apiUrl = `http://localhost:3000`
-const pinnedRepoApiUrl = `http://localhost:3000/users/pinned/`
+// const apiUrl = `http://localhost:3000`
+// const pinnedRepoApiUrl = `http://localhost:3000/users/pinned/`
 
 
 /**
