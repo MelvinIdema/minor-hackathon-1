@@ -1,1 +1,2 @@
-# minor-hackathon-1
+https://hackathon.ikbenmel.vin/
+En voor m'n procesboek: https://hackathon.ikbenmel.vin/proces/
