@@ -18,7 +18,7 @@ export default async function Home() {
             const repoEl = `
              <article
                   style="background-image: url('${repo["image"]}')">
-                  <a href="/#/featured/${repo['repo']}"></a>
+                  <a href="${repo['link']}"></a>
                 <div>
                   <h1>${repo["repo"]}</h1>
                   <h2>${repo["website"]}}</h2>
